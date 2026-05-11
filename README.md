@@ -1,2 +1,3 @@
 # git_gtk
-Learning github
+Learning github for devops
+
